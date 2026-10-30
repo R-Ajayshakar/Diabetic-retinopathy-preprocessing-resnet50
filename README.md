@@ -76,7 +76,7 @@ pip install tensorflow flask opencv-python numpy pandas
 ---
 
 # Clone the Repository
-git clone [https://github.com/R-Ajayshakar/Diabetic-retinopathy-preprocessing-resnet50.git](https://github.com/Saran-067/Diabetic-retinopathy-preprocessing-resnet50.git)
+git clone [https://github.com/R-Ajayshakar/Diabetic-retinopathy-preprocessing-resnet50.git]
 
 # Navigate to the directory
 cd Diabetic-retinopathy-preprocessing-resnet50
